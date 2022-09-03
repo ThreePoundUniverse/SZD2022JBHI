@@ -13,4 +13,4 @@ tensorflow-gpu == 2.4.1
 For any inconvernienes and bug reports, contact ```syuri@tju.edu.cn```
 
 ## Citation
-Waiting for upload
+https://ieeexplore.ieee.org/document/9858598
